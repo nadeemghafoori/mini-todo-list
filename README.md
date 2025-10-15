@@ -8,8 +8,6 @@ A simple Todo List app built with HTML, CSS, and JavaScript.
 - Mark todos as completed (cross out)
 - Delete todos
 
-**Note:** This app stores todos only in the browser memory, so all data is lost on page refresh.
-
 ### Getting Started
 
 1. Clone the repository:
@@ -21,3 +19,5 @@ A simple Todo List app built with HTML, CSS, and JavaScript.
    cd mini-todo-list
    ```
 3. Open `index.html` in your browser to view it.
+
+**Note:** This app stores todos only in the browser memory, so all data is lost on page refresh.
